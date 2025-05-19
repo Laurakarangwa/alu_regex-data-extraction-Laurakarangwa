@@ -24,16 +24,21 @@ The application can detect and extract the following types of data:
 
 
 ##  How to Use
+
 **1.Clone the repository**  
    Open your terminal and run:  
    git clone https://github.com/your-username/alu_regex-data-extraction-Laurakarangwa.git
+   
 **2.Navigate into the project directory**
 cd alu_regex-data-extraction-Laurakarangwa
+
 **3.Open the application in your browser**
 You can simply double-click the HTML file, then:
 
   >Copy any large text or page content into the text area
+
   >Click the Extract Data button
+
   >View the extracted results below, categorized by data type
 
 ##  Author
