@@ -41,6 +41,19 @@ You can simply double-click the HTML file, then:
 
   >View the extracted results below, categorized by data type
 
+## Sample input and test cases
+
+Sample input:
+
+Contact me at user@example.com or call (123) 456-7890. Visit https://example.com for details.
+
+Expected Output to be extracted:
+
+- Emails: user@example.com  
+- Phone Numbers: (123) 456-7890  
+- URLs: https://example.com  
+
+
 ##  Author
 
 **Laurakarangwa**
